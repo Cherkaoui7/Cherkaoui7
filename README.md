@@ -1,4 +1,4 @@
-# 👨‍💻 Cherkaoui7 - Full-Stack Developer & Tech Architect
+# 👨‍💻 Cherkaoui7 - Full-Stack Developer & Tech Architect & AI
 
 <div align="center">
 
