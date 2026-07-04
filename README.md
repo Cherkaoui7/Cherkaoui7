@@ -1,4 +1,4 @@
-Cherkaoui7 - Full-Stack Developer & Tech Architect & AI
+## Cherkaoui7 - Full-Stack Developer & Tech Architect & AI
 
 <div align="center">
 
