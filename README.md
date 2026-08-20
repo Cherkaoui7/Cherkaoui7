@@ -17,7 +17,7 @@
 I'm a **full-stack developer** with deep expertise in the **MERN stack**, **real-time systems**, and **multi-platform mobile development**. I've built **30+ projects** ranging from e-commerce platforms to enterprise solutions, real-time messaging systems, and AI-powered utilities.
 
 ### 📊 Stats at a Glance
-- **30+** Repositories (Public & Private)
+- **40+** Repositories (Public & Private)
 - **7** Programming Languages (JavaScript, TypeScript, Python, PHP, Dart, Kotlin, HTML/CSS)
 - **5+** Production-Grade Applications
 - **3** Mobile Platforms (Flutter, React Native, Kotlin)
